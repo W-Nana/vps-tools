@@ -1,7 +1,8 @@
 # vps-tools
 
-`bash <(curl tools.gensokyo.us.kg)`
-
+```
+bash <(curl tools.gensokyo.us.kg)
+```
 
 - https://github.com/spiritLHLS/ecs
 - https://github.com/oneclickvirt/ecs
