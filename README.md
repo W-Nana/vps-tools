@@ -1,7 +1,7 @@
 # vps-tools
 
 ```
-bash <(curl -L tools.gensokyo.us.kg)
+bash <(curl https://github.com/W-Nana/vps-tools/raw/refs/heads/main/tools.sh)
 ```
 
 - https://github.com/spiritLHLS/ecs
